@@ -1,5 +1,3 @@
-package C1_arrays;
-
 public class A3_largest_smallest_in_array {
     public static void smallest_largest(int[] arr){
         int smallest = Integer.MAX_VALUE;
@@ -16,6 +14,7 @@ public class A3_largest_smallest_in_array {
         System.out.println("The smallest elem is " + smallest);
     }
 
+    // cleaner version
     public static void smallest_largest2(int[] arr){
         int smallest = Integer.MAX_VALUE;
         int largest = Integer.MIN_VALUE;

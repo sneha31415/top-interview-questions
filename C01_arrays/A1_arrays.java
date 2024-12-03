@@ -1,4 +1,6 @@
-package C1_arrays;
+/**
+Introductions to Arrays
+ */
 
 public class A1_arrays {
     public static void main(String[] args) {
@@ -6,6 +8,5 @@ public class A1_arrays {
         for (int elem : arr){
             System.out.println(elem);
         }
-
     }
 }

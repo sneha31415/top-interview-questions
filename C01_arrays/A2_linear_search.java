@@ -1,5 +1,3 @@
-package C1_arrays;
-
 public class A2_linear_search {
     public static int linearSearch(int[] search_array, int target) {
         for (int i = 0; i < search_array.length; i++) {
@@ -18,7 +16,7 @@ public class A2_linear_search {
                 break; //break the for loop but not the function
             }
         }
-//        we need a if statement cuz bcuz this line will be reached even if the element is found cuz we re using "break" and not "return"
+/*we need a if statement cuz bcuz this line will be reached even if the element is found cuz we re using "break" and not "return" */
         if (i == search_array.length) {
             System.out.println("target not found");
         }

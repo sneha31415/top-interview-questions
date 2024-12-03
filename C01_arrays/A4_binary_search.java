@@ -1,5 +1,3 @@
-package C1_arrays;
-
 import java.util.Scanner;
 
 public class A4_binary_search {
