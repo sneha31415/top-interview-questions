@@ -8,4 +8,4 @@ This repository aims to be a comprehensive compilation of must-know questions fo
 
 
 ## Clarifying questions :
-I have also compiled a list of [clarifying questions](https://docs.google.com/document/d/1n9hAYouIgjyYxiKWVYHQdxCqHrYpaxhGoRUOb8DRDDQ/edit?tab=t.0#heading=h.pqbda2hbdr0v) one can ask before jumping into discussing the approach.
+I have also compiled a list of [clarifying questions](https://docs.google.com/document/d/1n9hAYouIgjyYxiKWVYHQdxCqHrYpaxhGoRUOb8DRDDQ/edit?tab=t.0#heading=h.pqbda2hbdr0v) one can ask before jumping into discussing the approach in an interview.
